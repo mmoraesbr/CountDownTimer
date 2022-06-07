@@ -1,7 +1,7 @@
 {
     "name": "CountDownTimer",
     "version": "1.0.0",
-    "description": "A simple library to async delay delay for a while",
+    "description": "A simple library to async delay for a while",
     "keywords": "delay",
     "repository":
     {
