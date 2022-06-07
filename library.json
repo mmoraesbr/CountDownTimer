@@ -16,6 +16,7 @@
         }
     ],
     "license": "MIT",
+    "homepage": "https://github.com/mmoraesbr/CountDownTimer",
     "frameworks": "*",
     "platforms": "*"
 }
